@@ -1,2 +1,12 @@
 # ML-AI-for-Retail-eCommerce
-ML AI use-cases for Retail, eCommerce, Quick Commerce
+Data Science for Retail, eCommerce, Quick Commerce
+
+
+# Author
+Ishan Jain
+ 
+# LinkedIn
+https://www.linkedin.com/in/ishanjainofficial/
+ 
+# Medium.com
+https://medium.com/@ishanjain-ai
